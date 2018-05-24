@@ -1,0 +1,84 @@
+body{
+	 background: linear-gradient(to right, gray , white, black);
+}
+	
+.entire{
+	width:100vw;
+	height:100vh;
+	 background: linear-gradient(to right, gray , white, );
+}
+
+.paragraph{
+	width:50vw;
+	height:100vh;
+	 background: linear-gradient(to right, gray , white, );
+	 float:left;
+}
+.info{
+	width:100vw;
+	height:100vh;
+	 background: linear-gradient(to right, gray , white, );
+	float:left;
+}
+.infosub{
+	width:50vw;
+	height:100vh;
+	 background: linear-gradient(to right, gray , white, );
+}
+
+.question{
+	width:50vw;
+	height:100vh;
+	background-color:blue;
+	float:right;
+
+}
+
+.top{
+	width:100vw;
+	height:30vh;
+	 background: linear-gradient(to right, gray , white, black);
+	
+}
+
+.bottom{
+	width:100vw;
+	height:70vh;
+	  background: linear-gradient(to right, gray , white, black);
+	
+}
+
+.one{
+	width:100vw;
+	height:17.5vh;
+	 background: linear-gradient(to right, gray , white, black);
+	
+}
+
+.two{
+	width:100vw;
+	height:17.5vh;
+	  background: linear-gradient(to right, gray , white, black);
+	
+	
+}
+
+.three{
+	width:100vw;
+	height:17.5vh;
+	   background: linear-gradient(to right, gray , white, black);
+	
+
+}
+
+.four{
+	width:100vw;
+	height:17.5vh;
+	  background: linear-gradient(to right, gray , white, black);
+}
+
+#text{
+	display: flex;
+	font-size: 100px;
+	font-family: Georgia, sans-serif;
+}
