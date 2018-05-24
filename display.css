@@ -13,7 +13,7 @@ body{
 	height:100vh;
 	 background: linear-gradient(to right, gray , white, );
 	 float:left;
-	 line-height: 100%;
+	 line-height: 50%;
 }
 .info{
 	width:100vw;
